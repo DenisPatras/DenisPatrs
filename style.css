@@ -493,7 +493,7 @@ p       {
 
 }
 #about .col-right {
-  width: 100%;
+  width: 150%;
 }
 #about .col-right h2 {
   font-size: 2.5rem;
@@ -514,7 +514,7 @@ p       {
 }
 #about .col-left .about-img { 
   height: 100%;
-  width: 100%;
+  width: 110%;
   position: relative;
   border: 5px solid #ffffff;
   
