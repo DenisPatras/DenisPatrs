@@ -515,7 +515,7 @@ p       {
 }
 #about .col-left .about-img { 
   height: 100%;
-  width: 100%;
+  width: 105%;
   position:relative;
   border: 5px solid #ffffff;
   
@@ -722,14 +722,14 @@ p       {
 }
 #about .col-left  {
   width: 650px;
-  height: 350px;
-  padding-left: 17px;
+  height: 370px;
+  padding-left: 25px;
 }
 #about .about .col-left .about-img::after {
   left: -40px;
   top: 50px;
   height: 90%;
-  width: 80%;  
+  width: 90%;  
   border: 5px solid #ff0000;
 }
 #about .col-right {
