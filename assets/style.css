@@ -723,7 +723,7 @@ p       {
 #about .col-left  {
   width: 650px;
   height: 370px;
-  padding-left: 25px;
+  padding-left: 15px;
 }
 #about .about .col-left .about-img::after {
   left: -40px;
