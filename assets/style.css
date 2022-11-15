@@ -526,8 +526,8 @@ p       {
   position: absolute;
   left: -33px;
   top: 19px;
-  height: 98%;
-  width: 98%;
+  height: 50%;
+  width: 50%;
   border: 5px soldid #ff0000;
   z-index: -1;
 
@@ -721,8 +721,8 @@ p       {
   flex-direction: row;
 }
 #about .col-left  {
-  width: 700px;
-  height: 390px;
+  width: 600px;
+  height: 370px;
   padding-left: 15px;
 }
 #about .about .col-left .about-img::after {
