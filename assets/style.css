@@ -721,8 +721,8 @@ p       {
   flex-direction: row;
 }
 #about .col-left  {
-  width: 650px;
-  height: 370px;
+  width: 700px;
+  height: 390px;
   padding-left: 15px;
 }
 #about .about .col-left .about-img::after {
